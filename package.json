@@ -1,7 +1,7 @@
 {
-  "name": "whatsapp-bot",
+  "name": "whatsapp-bot-msgames",
   "version": "1.0.0",
-  "description": "Simple Twilio WhatsApp echo bot",
+  "description": "Bot de WhatsApp (Twilio) para MS Games — Sandbox y Producción",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -14,3 +14,4 @@
     "twilio": "^4.21.0"
   }
 }
+
